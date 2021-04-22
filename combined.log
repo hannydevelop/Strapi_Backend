@@ -1,0 +1,1252 @@
+2021-04-13T08:27:40: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:27:40: :: Created by npm, please don't edit manually.
+2021-04-13T08:27:40: ^
+2021-04-13T08:27:40: 
+2021-04-13T08:27:40: SyntaxError: Unexpected token ':'
+2021-04-13T08:27:40:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:27:40:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:40:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:40:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:40:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:27:40:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:27:40:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:40:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:40:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:40:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:27:41: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:27:41: :: Created by npm, please don't edit manually.
+2021-04-13T08:27:41: ^
+2021-04-13T08:27:41: 
+2021-04-13T08:27:41: SyntaxError: Unexpected token ':'
+2021-04-13T08:27:41:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:27:41:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:41:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:41:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:41:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:27:41:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:27:41:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:41:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:41:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:41:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:27:41: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:27:41: :: Created by npm, please don't edit manually.
+2021-04-13T08:27:41: ^
+2021-04-13T08:27:41: 
+2021-04-13T08:27:41: SyntaxError: Unexpected token ':'
+2021-04-13T08:27:41:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:27:41:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:41:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:41:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:41:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:27:41:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:27:41:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:41:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:41:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:41:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:27:42: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:27:42: :: Created by npm, please don't edit manually.
+2021-04-13T08:27:42: ^
+2021-04-13T08:27:42: 
+2021-04-13T08:27:42: SyntaxError: Unexpected token ':'
+2021-04-13T08:27:42:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:27:42:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:42:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:42:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:42:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:27:42:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:27:42:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:42:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:42:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:42:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:27:42: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:27:42: :: Created by npm, please don't edit manually.
+2021-04-13T08:27:42: ^
+2021-04-13T08:27:42: 
+2021-04-13T08:27:42: SyntaxError: Unexpected token ':'
+2021-04-13T08:27:42:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:27:42:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:42:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:42:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:42:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:27:42:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:27:42:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:42:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:42:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:42:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:27:43: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:27:43: :: Created by npm, please don't edit manually.
+2021-04-13T08:27:43: ^
+2021-04-13T08:27:43: 
+2021-04-13T08:27:43: SyntaxError: Unexpected token ':'
+2021-04-13T08:27:43:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:27:43:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:43:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:43:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:43:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:27:43:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:27:43:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:43:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:43:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:43:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:27:44: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:27:44: :: Created by npm, please don't edit manually.
+2021-04-13T08:27:44: ^
+2021-04-13T08:27:44: 
+2021-04-13T08:27:44: SyntaxError: Unexpected token ':'
+2021-04-13T08:27:44:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:27:44:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:44:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:44:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:44:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:27:44:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:27:44:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:44:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:44:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:44:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:27:45: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:27:45: :: Created by npm, please don't edit manually.
+2021-04-13T08:27:45: ^
+2021-04-13T08:27:45: 
+2021-04-13T08:27:45: SyntaxError: Unexpected token ':'
+2021-04-13T08:27:45:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:27:45:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:45:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:45:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:45:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:27:45:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:27:45:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:45:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:45:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:45:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:27:46: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:27:46: :: Created by npm, please don't edit manually.
+2021-04-13T08:27:46: ^
+2021-04-13T08:27:46: 
+2021-04-13T08:27:46: SyntaxError: Unexpected token ':'
+2021-04-13T08:27:46:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:27:46:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:46:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:46:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:46:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:27:46:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:27:46:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:46:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:46:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:46:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:27:46: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:27:46: :: Created by npm, please don't edit manually.
+2021-04-13T08:27:46: ^
+2021-04-13T08:27:46: 
+2021-04-13T08:27:46: SyntaxError: Unexpected token ':'
+2021-04-13T08:27:46:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:27:46:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:46:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:46:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:46:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:27:46:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:27:46:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:46:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:46:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:46:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:27:47: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:27:47: :: Created by npm, please don't edit manually.
+2021-04-13T08:27:47: ^
+2021-04-13T08:27:47: 
+2021-04-13T08:27:47: SyntaxError: Unexpected token ':'
+2021-04-13T08:27:47:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:27:47:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:47:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:47:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:47:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:27:47:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:27:47:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:47:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:47:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:47:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:27:48: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:27:48: :: Created by npm, please don't edit manually.
+2021-04-13T08:27:48: ^
+2021-04-13T08:27:48: 
+2021-04-13T08:27:48: SyntaxError: Unexpected token ':'
+2021-04-13T08:27:48:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:27:48:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:48:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:48:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:48:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:27:48:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:27:48:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:48:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:48:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:48:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:27:48: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:27:48: :: Created by npm, please don't edit manually.
+2021-04-13T08:27:48: ^
+2021-04-13T08:27:48: 
+2021-04-13T08:27:48: SyntaxError: Unexpected token ':'
+2021-04-13T08:27:48:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:27:48:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:48:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:48:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:48:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:27:48:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:27:48:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:48:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:48:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:48:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:27:49: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:27:49: :: Created by npm, please don't edit manually.
+2021-04-13T08:27:49: ^
+2021-04-13T08:27:49: 
+2021-04-13T08:27:49: SyntaxError: Unexpected token ':'
+2021-04-13T08:27:49:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:27:49:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:49:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:49:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:49:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:27:49:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:27:49:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:49:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:49:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:49:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:27:49: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:27:49: :: Created by npm, please don't edit manually.
+2021-04-13T08:27:49: ^
+2021-04-13T08:27:49: 
+2021-04-13T08:27:49: SyntaxError: Unexpected token ':'
+2021-04-13T08:27:49:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:27:49:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:49:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:49:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:49:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:27:49:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:27:49:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:49:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:49:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:49:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:27:50: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:27:50: :: Created by npm, please don't edit manually.
+2021-04-13T08:27:50: ^
+2021-04-13T08:27:50: 
+2021-04-13T08:27:50: SyntaxError: Unexpected token ':'
+2021-04-13T08:27:50:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:27:50:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:50:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:50:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:50:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:27:50:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:27:50:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:50:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:50:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:50:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:27:51: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:27:51: :: Created by npm, please don't edit manually.
+2021-04-13T08:27:51: ^
+2021-04-13T08:27:51: 
+2021-04-13T08:27:51: SyntaxError: Unexpected token ':'
+2021-04-13T08:27:51:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:27:51:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:51:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:51:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:51:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:27:51:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:27:51:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:51:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:51:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:51:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:27:51: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:27:51: :: Created by npm, please don't edit manually.
+2021-04-13T08:27:51: ^
+2021-04-13T08:27:51: 
+2021-04-13T08:27:51: SyntaxError: Unexpected token ':'
+2021-04-13T08:27:51:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:27:51:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:51:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:51:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:51:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:27:51:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:27:51:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:27:51:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:27:51:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:27:51:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:27:52: [2021-04-13T07:27:52.534Z] debug ⛔️ Server wasn't able to start properly.
+2021-04-13T08:27:52: [2021-04-13T07:27:52.536Z] error The port 1337 is already used by another application.
+2021-04-13T08:28:00: [2021-04-13T07:28:00.138Z] debug ⛔️ Server wasn't able to start properly.
+2021-04-13T08:28:00: [2021-04-13T07:28:00.139Z] error The port 1337 is already used by another application.
+2021-04-13T08:28:08: [2021-04-13T07:28:08.431Z] debug ⛔️ Server wasn't able to start properly.
+2021-04-13T08:28:08: [2021-04-13T07:28:08.433Z] error The port 1337 is already used by another application.
+2021-04-13T08:28:20: [2021-04-13T07:28:20.225Z] debug ⛔️ Server wasn't able to start properly.
+2021-04-13T08:28:20: [2021-04-13T07:28:20.227Z] error The port 1337 is already used by another application.
+2021-04-13T08:28:28: [2021-04-13T07:28:28.341Z] debug ⛔️ Server wasn't able to start properly.
+2021-04-13T08:28:28: [2021-04-13T07:28:28.343Z] error The port 1337 is already used by another application.
+2021-04-13T08:28:38: [2021-04-13T07:28:38.267Z] debug ⛔️ Server wasn't able to start properly.
+2021-04-13T08:28:38: [2021-04-13T07:28:38.272Z] error The port 1337 is already used by another application.
+2021-04-13T08:28:48: [2021-04-13T07:28:48.049Z] debug ⛔️ Server wasn't able to start properly.
+2021-04-13T08:28:48: [2021-04-13T07:28:48.052Z] error The port 1337 is already used by another application.
+2021-04-13T08:29:00: [2021-04-13T07:29:00.056Z] debug ⛔️ Server wasn't able to start properly.
+2021-04-13T08:29:00: [2021-04-13T07:29:00.059Z] error The port 1337 is already used by another application.
+2021-04-13T08:29:09: [2021-04-13T07:29:09.782Z] debug ⛔️ Server wasn't able to start properly.
+2021-04-13T08:29:09: [2021-04-13T07:29:09.785Z] error The port 1337 is already used by another application.
+2021-04-13T08:29:19: [2021-04-13T07:29:19.799Z] debug ⛔️ Server wasn't able to start properly.
+2021-04-13T08:29:19: [2021-04-13T07:29:19.803Z] error The port 1337 is already used by another application.
+2021-04-13T08:29:31: [2021-04-13T07:29:31.605Z] debug ⛔️ Server wasn't able to start properly.
+2021-04-13T08:29:31: [2021-04-13T07:29:31.608Z] error The port 1337 is already used by another application.
+2021-04-13T08:36:20: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:36:20: :: Created by npm, please don't edit manually.
+2021-04-13T08:36:20: ^
+2021-04-13T08:36:20: 
+2021-04-13T08:36:20: SyntaxError: Unexpected token ':'
+2021-04-13T08:36:20:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:36:20:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:20:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:20:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:20:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:36:20:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:36:20:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:20:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:20:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:20:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:36:20: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:36:20: :: Created by npm, please don't edit manually.
+2021-04-13T08:36:20: ^
+2021-04-13T08:36:20: 
+2021-04-13T08:36:20: SyntaxError: Unexpected token ':'
+2021-04-13T08:36:20:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:36:20:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:20:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:20:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:20:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:36:20:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:36:20:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:20:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:20:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:20:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:36:21: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:36:21: :: Created by npm, please don't edit manually.
+2021-04-13T08:36:21: ^
+2021-04-13T08:36:21: 
+2021-04-13T08:36:21: SyntaxError: Unexpected token ':'
+2021-04-13T08:36:21:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:36:21:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:21:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:21:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:21:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:36:21:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:36:21:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:21:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:21:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:21:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:36:22: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:36:22: :: Created by npm, please don't edit manually.
+2021-04-13T08:36:22: ^
+2021-04-13T08:36:22: 
+2021-04-13T08:36:22: SyntaxError: Unexpected token ':'
+2021-04-13T08:36:22:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:36:22:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:22:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:22:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:22:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:36:22:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:36:22:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:22:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:22:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:22:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:36:22: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:36:22: :: Created by npm, please don't edit manually.
+2021-04-13T08:36:22: ^
+2021-04-13T08:36:22: 
+2021-04-13T08:36:22: SyntaxError: Unexpected token ':'
+2021-04-13T08:36:22:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:36:22:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:22:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:22:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:22:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:36:22:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:36:22:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:22:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:22:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:22:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:36:23: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:36:23: :: Created by npm, please don't edit manually.
+2021-04-13T08:36:23: ^
+2021-04-13T08:36:23: 
+2021-04-13T08:36:23: SyntaxError: Unexpected token ':'
+2021-04-13T08:36:23:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:36:23:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:23:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:23:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:23:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:36:23:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:36:23:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:23:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:23:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:23:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:36:24: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:36:24: :: Created by npm, please don't edit manually.
+2021-04-13T08:36:24: ^
+2021-04-13T08:36:24: 
+2021-04-13T08:36:24: SyntaxError: Unexpected token ':'
+2021-04-13T08:36:24:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:36:24:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:24:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:24:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:24:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:36:24:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:36:24:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:24:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:24:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:24:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:36:24: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:36:24: :: Created by npm, please don't edit manually.
+2021-04-13T08:36:24: ^
+2021-04-13T08:36:24: 
+2021-04-13T08:36:24: SyntaxError: Unexpected token ':'
+2021-04-13T08:36:24:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:36:24:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:24:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:24:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:24:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:36:24:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:36:24:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:24:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:24:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:24:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:36:25: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:36:25: :: Created by npm, please don't edit manually.
+2021-04-13T08:36:25: ^
+2021-04-13T08:36:25: 
+2021-04-13T08:36:25: SyntaxError: Unexpected token ':'
+2021-04-13T08:36:25:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:36:25:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:25:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:25:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:25:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:36:25:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:36:25:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:25:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:25:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:25:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:36:25: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:36:25: :: Created by npm, please don't edit manually.
+2021-04-13T08:36:25: ^
+2021-04-13T08:36:25: 
+2021-04-13T08:36:25: SyntaxError: Unexpected token ':'
+2021-04-13T08:36:25:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:36:25:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:25:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:25:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:25:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:36:25:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:36:25:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:25:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:25:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:25:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:36:26: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:36:26: :: Created by npm, please don't edit manually.
+2021-04-13T08:36:26: ^
+2021-04-13T08:36:26: 
+2021-04-13T08:36:26: SyntaxError: Unexpected token ':'
+2021-04-13T08:36:26:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:36:26:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:26:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:26:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:26:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:36:26:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:36:26:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:26:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:26:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:26:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:36:26: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:36:26: :: Created by npm, please don't edit manually.
+2021-04-13T08:36:26: ^
+2021-04-13T08:36:26: 
+2021-04-13T08:36:26: SyntaxError: Unexpected token ':'
+2021-04-13T08:36:26:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:36:26:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:26:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:26:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:26:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:36:26:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:36:26:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:26:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:26:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:26:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:36:27: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:36:27: :: Created by npm, please don't edit manually.
+2021-04-13T08:36:27: ^
+2021-04-13T08:36:27: 
+2021-04-13T08:36:27: SyntaxError: Unexpected token ':'
+2021-04-13T08:36:27:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:36:27:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:27:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:27:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:27:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:36:27:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:36:27:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:27:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:27:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:27:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:36:27: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:36:27: :: Created by npm, please don't edit manually.
+2021-04-13T08:36:27: ^
+2021-04-13T08:36:27: 
+2021-04-13T08:36:27: SyntaxError: Unexpected token ':'
+2021-04-13T08:36:27:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:36:27:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:27:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:27:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:27:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:36:27:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:36:27:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:27:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:27:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:27:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:36:28: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:36:28: :: Created by npm, please don't edit manually.
+2021-04-13T08:36:28: ^
+2021-04-13T08:36:28: 
+2021-04-13T08:36:28: SyntaxError: Unexpected token ':'
+2021-04-13T08:36:28:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:36:28:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:28:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:28:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:28:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:36:28:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:36:28:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:28:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:28:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:28:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:36:28: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:36:28: :: Created by npm, please don't edit manually.
+2021-04-13T08:36:28: ^
+2021-04-13T08:36:28: 
+2021-04-13T08:36:28: SyntaxError: Unexpected token ':'
+2021-04-13T08:36:28:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:36:28:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:28:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:28:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:28:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:36:28:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:36:28:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:28:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:28:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:28:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:36:50: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:36:50: :: Created by npm, please don't edit manually.
+2021-04-13T08:36:50: ^
+2021-04-13T08:36:50: 
+2021-04-13T08:36:50: SyntaxError: Unexpected token ':'
+2021-04-13T08:36:50:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:36:50:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:50:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:50:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:50:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:36:50:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:36:50:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:50:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:50:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:50:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:36:50: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:36:50: :: Created by npm, please don't edit manually.
+2021-04-13T08:36:50: ^
+2021-04-13T08:36:50: 
+2021-04-13T08:36:50: SyntaxError: Unexpected token ':'
+2021-04-13T08:36:50:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:36:50:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:50:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:50:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:50:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:36:50:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:36:50:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:50:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:50:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:50:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:36:51: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:36:51: :: Created by npm, please don't edit manually.
+2021-04-13T08:36:51: ^
+2021-04-13T08:36:51: 
+2021-04-13T08:36:51: SyntaxError: Unexpected token ':'
+2021-04-13T08:36:51:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:36:51:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:51:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:51:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:51:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:36:51:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:36:51:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:51:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:51:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:51:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:36:52: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:36:52: :: Created by npm, please don't edit manually.
+2021-04-13T08:36:52: ^
+2021-04-13T08:36:52: 
+2021-04-13T08:36:52: SyntaxError: Unexpected token ':'
+2021-04-13T08:36:52:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:36:52:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:52:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:52:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:52:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:36:52:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:36:52:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:52:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:52:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:52:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:36:52: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:36:52: :: Created by npm, please don't edit manually.
+2021-04-13T08:36:52: ^
+2021-04-13T08:36:52: 
+2021-04-13T08:36:52: SyntaxError: Unexpected token ':'
+2021-04-13T08:36:52:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:36:52:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:52:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:52:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:52:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:36:52:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:36:52:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:52:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:52:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:52:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:36:53: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:36:53: :: Created by npm, please don't edit manually.
+2021-04-13T08:36:53: ^
+2021-04-13T08:36:53: 
+2021-04-13T08:36:53: SyntaxError: Unexpected token ':'
+2021-04-13T08:36:53:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:36:53:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:53:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:53:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:53:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:36:53:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:36:53:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:53:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:53:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:53:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:36:54: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:36:54: :: Created by npm, please don't edit manually.
+2021-04-13T08:36:54: ^
+2021-04-13T08:36:54: 
+2021-04-13T08:36:54: SyntaxError: Unexpected token ':'
+2021-04-13T08:36:54:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:36:54:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:54:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:54:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:54:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:36:54:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:36:54:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:54:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:54:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:54:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:36:54: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:36:54: :: Created by npm, please don't edit manually.
+2021-04-13T08:36:54: ^
+2021-04-13T08:36:54: 
+2021-04-13T08:36:54: SyntaxError: Unexpected token ':'
+2021-04-13T08:36:54:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:36:54:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:54:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:54:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:54:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:36:54:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:36:54:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:54:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:54:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:54:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:36:55: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:36:55: :: Created by npm, please don't edit manually.
+2021-04-13T08:36:55: ^
+2021-04-13T08:36:55: 
+2021-04-13T08:36:55: SyntaxError: Unexpected token ':'
+2021-04-13T08:36:55:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:36:55:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:55:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:55:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:55:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:36:55:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:36:55:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:55:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:55:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:55:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:36:56: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:36:56: :: Created by npm, please don't edit manually.
+2021-04-13T08:36:56: ^
+2021-04-13T08:36:56: 
+2021-04-13T08:36:56: SyntaxError: Unexpected token ':'
+2021-04-13T08:36:56:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:36:56:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:56:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:56:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:56:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:36:56:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:36:56:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:56:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:56:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:56:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:36:56: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:36:56: :: Created by npm, please don't edit manually.
+2021-04-13T08:36:56: ^
+2021-04-13T08:36:56: 
+2021-04-13T08:36:56: SyntaxError: Unexpected token ':'
+2021-04-13T08:36:56:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:36:56:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:56:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:56:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:56:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:36:56:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:36:56:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:56:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:56:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:56:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:36:57: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:36:57: :: Created by npm, please don't edit manually.
+2021-04-13T08:36:57: ^
+2021-04-13T08:36:57: 
+2021-04-13T08:36:57: SyntaxError: Unexpected token ':'
+2021-04-13T08:36:57:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:36:57:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:57:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:57:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:57:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:36:57:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:36:57:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:57:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:57:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:57:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:36:58: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:36:58: :: Created by npm, please don't edit manually.
+2021-04-13T08:36:58: ^
+2021-04-13T08:36:58: 
+2021-04-13T08:36:58: SyntaxError: Unexpected token ':'
+2021-04-13T08:36:58:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:36:58:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:58:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:58:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:58:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:36:58:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:36:58:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:58:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:58:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:58:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:36:58: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:36:58: :: Created by npm, please don't edit manually.
+2021-04-13T08:36:58: ^
+2021-04-13T08:36:58: 
+2021-04-13T08:36:58: SyntaxError: Unexpected token ':'
+2021-04-13T08:36:58:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:36:58:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:58:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:58:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:58:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:36:58:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:36:58:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:58:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:58:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:58:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:36:59: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:36:59: :: Created by npm, please don't edit manually.
+2021-04-13T08:36:59: ^
+2021-04-13T08:36:59: 
+2021-04-13T08:36:59: SyntaxError: Unexpected token ':'
+2021-04-13T08:36:59:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:36:59:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:59:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:59:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:59:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:36:59:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:36:59:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:36:59:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:36:59:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:36:59:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:37:00: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:37:00: :: Created by npm, please don't edit manually.
+2021-04-13T08:37:00: ^
+2021-04-13T08:37:00: 
+2021-04-13T08:37:00: SyntaxError: Unexpected token ':'
+2021-04-13T08:37:00:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:37:00:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:37:00:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:37:00:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:37:00:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:37:00:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:37:00:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:37:00:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:37:00:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:37:00:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:38:53: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:38:53: :: Created by npm, please don't edit manually.
+2021-04-13T08:38:53: ^
+2021-04-13T08:38:53: 
+2021-04-13T08:38:53: SyntaxError: Unexpected token ':'
+2021-04-13T08:38:53:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:38:53:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:38:53:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:38:53:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:38:53:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:38:53:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:38:53:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:38:53:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:38:53:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:38:53:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:38:54: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:38:54: :: Created by npm, please don't edit manually.
+2021-04-13T08:38:54: ^
+2021-04-13T08:38:54: 
+2021-04-13T08:38:54: SyntaxError: Unexpected token ':'
+2021-04-13T08:38:54:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:38:54:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:38:54:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:38:54:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:38:54:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:38:54:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:38:54:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:38:54:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:38:54:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:38:54:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:38:55: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:38:55: :: Created by npm, please don't edit manually.
+2021-04-13T08:38:55: ^
+2021-04-13T08:38:55: 
+2021-04-13T08:38:55: SyntaxError: Unexpected token ':'
+2021-04-13T08:38:55:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:38:55:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:38:55:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:38:55:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:38:55:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:38:55:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:38:55:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:38:55:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:38:55:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:38:55:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:38:56: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:38:56: :: Created by npm, please don't edit manually.
+2021-04-13T08:38:56: ^
+2021-04-13T08:38:56: 
+2021-04-13T08:38:56: SyntaxError: Unexpected token ':'
+2021-04-13T08:38:56:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:38:56:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:38:56:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:38:56:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:38:56:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:38:56:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:38:56:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:38:56:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:38:56:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:38:56:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:38:56: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:38:56: :: Created by npm, please don't edit manually.
+2021-04-13T08:38:56: ^
+2021-04-13T08:38:56: 
+2021-04-13T08:38:56: SyntaxError: Unexpected token ':'
+2021-04-13T08:38:56:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:38:56:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:38:56:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:38:56:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:38:56:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:38:56:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:38:56:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:38:56:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:38:56:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:38:56:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:38:57: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:38:57: :: Created by npm, please don't edit manually.
+2021-04-13T08:38:57: ^
+2021-04-13T08:38:57: 
+2021-04-13T08:38:57: SyntaxError: Unexpected token ':'
+2021-04-13T08:38:57:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:38:57:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:38:57:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:38:57:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:38:57:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:38:57:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:38:57:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:38:57:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:38:57:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:38:57:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:38:58: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:38:58: :: Created by npm, please don't edit manually.
+2021-04-13T08:38:58: ^
+2021-04-13T08:38:58: 
+2021-04-13T08:38:58: SyntaxError: Unexpected token ':'
+2021-04-13T08:38:58:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:38:58:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:38:58:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:38:58:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:38:58:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:38:58:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:38:58:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:38:58:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:38:58:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:38:58:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:38:58: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:38:58: :: Created by npm, please don't edit manually.
+2021-04-13T08:38:58: ^
+2021-04-13T08:38:58: 
+2021-04-13T08:38:58: SyntaxError: Unexpected token ':'
+2021-04-13T08:38:58:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:38:58:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:38:58:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:38:58:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:38:58:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:38:58:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:38:58:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:38:58:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:38:58:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:38:58:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:38:59: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:38:59: :: Created by npm, please don't edit manually.
+2021-04-13T08:38:59: ^
+2021-04-13T08:38:59: 
+2021-04-13T08:38:59: SyntaxError: Unexpected token ':'
+2021-04-13T08:38:59:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:38:59:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:38:59:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:38:59:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:38:59:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:38:59:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:38:59:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:38:59:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:38:59:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:38:59:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:39:00: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:39:00: :: Created by npm, please don't edit manually.
+2021-04-13T08:39:00: ^
+2021-04-13T08:39:00: 
+2021-04-13T08:39:00: SyntaxError: Unexpected token ':'
+2021-04-13T08:39:00:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:39:00:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:39:00:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:39:00:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:39:00:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:39:00:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:39:00:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:39:00:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:39:00:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:39:00:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:39:01: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:39:01: :: Created by npm, please don't edit manually.
+2021-04-13T08:39:01: ^
+2021-04-13T08:39:01: 
+2021-04-13T08:39:01: SyntaxError: Unexpected token ':'
+2021-04-13T08:39:01:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:39:01:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:39:01:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:39:01:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:39:01:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:39:01:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:39:01:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:39:01:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:39:01:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:39:01:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:39:01: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:39:01: :: Created by npm, please don't edit manually.
+2021-04-13T08:39:01: ^
+2021-04-13T08:39:01: 
+2021-04-13T08:39:01: SyntaxError: Unexpected token ':'
+2021-04-13T08:39:01:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:39:01:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:39:01:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:39:01:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:39:01:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:39:01:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:39:01:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:39:01:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:39:01:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:39:01:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:39:02: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:39:02: :: Created by npm, please don't edit manually.
+2021-04-13T08:39:02: ^
+2021-04-13T08:39:02: 
+2021-04-13T08:39:02: SyntaxError: Unexpected token ':'
+2021-04-13T08:39:02:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:39:02:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:39:02:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:39:02:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:39:02:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:39:02:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:39:02:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:39:02:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:39:02:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:39:02:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:39:02: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:39:02: :: Created by npm, please don't edit manually.
+2021-04-13T08:39:02: ^
+2021-04-13T08:39:02: 
+2021-04-13T08:39:02: SyntaxError: Unexpected token ':'
+2021-04-13T08:39:02:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:39:02:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:39:02:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:39:02:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:39:02:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:39:02:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:39:02:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:39:02:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:39:02:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:39:02:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:39:03: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:39:03: :: Created by npm, please don't edit manually.
+2021-04-13T08:39:03: ^
+2021-04-13T08:39:03: 
+2021-04-13T08:39:03: SyntaxError: Unexpected token ':'
+2021-04-13T08:39:03:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:39:03:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:39:03:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:39:03:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:39:03:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:39:03:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:39:03:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:39:03:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:39:03:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:39:03:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:39:03: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:39:03: :: Created by npm, please don't edit manually.
+2021-04-13T08:39:03: ^
+2021-04-13T08:39:03: 
+2021-04-13T08:39:03: SyntaxError: Unexpected token ':'
+2021-04-13T08:39:03:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:39:03:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:39:03:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:39:03:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:39:03:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:39:03:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:39:03:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:39:03:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:39:03:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:39:03:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:42:49: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:42:49: :: Created by npm, please don't edit manually.
+2021-04-13T08:42:49: ^
+2021-04-13T08:42:49: 
+2021-04-13T08:42:49: SyntaxError: Unexpected token ':'
+2021-04-13T08:42:49:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:42:49:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:42:49:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:42:49:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:42:49:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:42:49:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:42:49:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:42:49:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:42:49:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:42:49:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:42:50: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:42:50: :: Created by npm, please don't edit manually.
+2021-04-13T08:42:50: ^
+2021-04-13T08:42:50: 
+2021-04-13T08:42:50: SyntaxError: Unexpected token ':'
+2021-04-13T08:42:50:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:42:50:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:42:50:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:42:50:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:42:50:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:42:50:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:42:50:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:42:50:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:42:50:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:42:50:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:42:51: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:42:51: :: Created by npm, please don't edit manually.
+2021-04-13T08:42:51: ^
+2021-04-13T08:42:51: 
+2021-04-13T08:42:51: SyntaxError: Unexpected token ':'
+2021-04-13T08:42:51:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:42:51:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:42:51:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:42:51:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:42:51:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:42:51:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:42:51:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:42:51:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:42:51:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:42:51:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:42:52: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:42:52: :: Created by npm, please don't edit manually.
+2021-04-13T08:42:52: ^
+2021-04-13T08:42:52: 
+2021-04-13T08:42:52: SyntaxError: Unexpected token ':'
+2021-04-13T08:42:52:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:42:52:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:42:52:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:42:52:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:42:52:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:42:52:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:42:52:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:42:52:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:42:52:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:42:52:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:42:52: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:42:52: :: Created by npm, please don't edit manually.
+2021-04-13T08:42:52: ^
+2021-04-13T08:42:52: 
+2021-04-13T08:42:52: SyntaxError: Unexpected token ':'
+2021-04-13T08:42:52:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:42:52:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:42:52:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:42:52:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:42:52:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:42:52:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:42:52:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:42:52:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:42:52:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:42:52:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:42:53: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:42:53: :: Created by npm, please don't edit manually.
+2021-04-13T08:42:53: ^
+2021-04-13T08:42:53: 
+2021-04-13T08:42:53: SyntaxError: Unexpected token ':'
+2021-04-13T08:42:53:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:42:53:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:42:53:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:42:53:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:42:53:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:42:53:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:42:53:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:42:53:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:42:53:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:42:53:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:42:53: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:42:53: :: Created by npm, please don't edit manually.
+2021-04-13T08:42:53: ^
+2021-04-13T08:42:53: 
+2021-04-13T08:42:53: SyntaxError: Unexpected token ':'
+2021-04-13T08:42:53:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:42:53:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:42:53:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:42:53:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:42:53:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:42:53:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:42:53:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:42:53:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:42:53:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:42:53:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:42:54: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:42:54: :: Created by npm, please don't edit manually.
+2021-04-13T08:42:54: ^
+2021-04-13T08:42:54: 
+2021-04-13T08:42:54: SyntaxError: Unexpected token ':'
+2021-04-13T08:42:54:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:42:54:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:42:54:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:42:54:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:42:54:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:42:54:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:42:54:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:42:54:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:42:54:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:42:54:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:42:55: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:42:55: :: Created by npm, please don't edit manually.
+2021-04-13T08:42:55: ^
+2021-04-13T08:42:55: 
+2021-04-13T08:42:55: SyntaxError: Unexpected token ':'
+2021-04-13T08:42:55:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:42:55:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:42:55:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:42:55:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:42:55:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:42:55:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:42:55:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:42:55:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:42:55:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:42:55:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:42:55: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:42:55: :: Created by npm, please don't edit manually.
+2021-04-13T08:42:55: ^
+2021-04-13T08:42:55: 
+2021-04-13T08:42:55: SyntaxError: Unexpected token ':'
+2021-04-13T08:42:55:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:42:55:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:42:55:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:42:55:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:42:55:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:42:55:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:42:55:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:42:55:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:42:55:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:42:55:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:42:56: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:42:56: :: Created by npm, please don't edit manually.
+2021-04-13T08:42:56: ^
+2021-04-13T08:42:56: 
+2021-04-13T08:42:56: SyntaxError: Unexpected token ':'
+2021-04-13T08:42:56:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:42:56:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:42:56:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:42:56:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:42:56:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:42:56:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:42:56:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:42:56:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:42:56:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:42:56:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:42:56: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:42:56: :: Created by npm, please don't edit manually.
+2021-04-13T08:42:56: ^
+2021-04-13T08:42:56: 
+2021-04-13T08:42:56: SyntaxError: Unexpected token ':'
+2021-04-13T08:42:56:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:42:56:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:42:56:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:42:56:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:42:56:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:42:56:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:42:56:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:42:56:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:42:56:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:42:56:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:42:57: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:42:57: :: Created by npm, please don't edit manually.
+2021-04-13T08:42:57: ^
+2021-04-13T08:42:57: 
+2021-04-13T08:42:57: SyntaxError: Unexpected token ':'
+2021-04-13T08:42:57:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:42:57:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:42:57:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:42:57:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:42:57:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:42:57:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:42:57:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:42:57:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:42:57:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:42:57:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:42:57: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:42:57: :: Created by npm, please don't edit manually.
+2021-04-13T08:42:57: ^
+2021-04-13T08:42:57: 
+2021-04-13T08:42:57: SyntaxError: Unexpected token ':'
+2021-04-13T08:42:57:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:42:57:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:42:57:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:42:57:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:42:57:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:42:57:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:42:57:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:42:57:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:42:57:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:42:57:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:42:58: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:42:58: :: Created by npm, please don't edit manually.
+2021-04-13T08:42:58: ^
+2021-04-13T08:42:58: 
+2021-04-13T08:42:58: SyntaxError: Unexpected token ':'
+2021-04-13T08:42:58:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:42:58:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:42:58:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:42:58:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:42:58:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:42:58:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:42:58:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:42:58:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:42:58:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:42:58:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
+2021-04-13T08:42:58: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2021-04-13T08:42:58: :: Created by npm, please don't edit manually.
+2021-04-13T08:42:58: ^
+2021-04-13T08:42:58: 
+2021-04-13T08:42:58: SyntaxError: Unexpected token ':'
+2021-04-13T08:42:58:     at Module._compile (internal/modules/cjs/loader.js:891:18)
+2021-04-13T08:42:58:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:42:58:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:42:58:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:42:58:     at Object.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-04-13T08:42:58:     at Module._compile (internal/modules/cjs/loader.js:955:30)
+2021-04-13T08:42:58:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+2021-04-13T08:42:58:     at Module.load (internal/modules/cjs/loader.js:811:32)
+2021-04-13T08:42:58:     at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+2021-04-13T08:42:58:     at Function.Module.runMain (internal/modules/cjs/loader.js:1043:10)
